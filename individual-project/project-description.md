@@ -5,10 +5,10 @@
 During this project you will generate, process, analyze, and answer specific questions questions using algorithms and visualizations about a healthcare dataset. Each of the individual assignments will build towards the final deliverable. Individual assignments will have both required and optional aspects. Completion of the required aspects "Meet Expectations". Sophistication, completeness, and style of the optional components will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
 ## Deliverables
-1. [Assignment 1](individual-project/assignment-1.md)
-2. [Assignment 2](individual-project/assignment-2.md)
-3. [Assignment 3](individual-project/assignment-3.md)
-4. [Assignment 4](individual-project/assignment-4.md)
+1. [Assignment 1](assignment-1.md)
+2. [Assignment 2](assignment-2.md)
+3. [Assignment 3](assignment-3.md)
+4. [Assignment 4](assignment-4.md)
 
 ## Grading Scale
 
