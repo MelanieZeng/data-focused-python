@@ -7,7 +7,7 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Lectures
 
-1. (Week 1) File reading, writing, appending
+1. (Week 1)<a name="week1"></a> File reading, writing, appending
     1. csv, json, xml
     1. open, overwrite, append
     1. copy, delete
@@ -28,7 +28,7 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 Quizzes will be administered weekly on the material from the prior week. All quizzes are close book and require the LockDown browser.
 
-1. (Week 2) Quiz 1 on Week 1 Material
+1. (Week 2) Quiz 1 on [Week 1](#week1) Material
 2. (Week 3) Quiz 2 on Week 2 Material
 3. (Week 4) Quiz 3 on Week 3 Material
 4. (Week 5) Quiz 4 on Week 4 Material
