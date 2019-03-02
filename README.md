@@ -26,6 +26,8 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Quizzes & Exams
 
+Quizzes will be administered weekly on the material from the prior week. All quizzes are close book and require the LockDown browser.
+
 1. (Week 2) Quiz 1 on Week 1 Material
 2. (Week 3) Quiz 2 on Week 2 Material
 3. (Week 4) Quiz 3 on Week 3 Material
@@ -36,7 +38,9 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Individual Project Assignments
 
-1. (Week 2) Assignment 1
-2. (Week 4) Assignment 2
-3. (Week 6) Assignment 3
-4. (Week 8) Assignment 4
+The project is a collection of individual programming assignments that have required and optional components. The assignments are graded according to a rubric. Completion of the required aspects "Meet Expectations". Sophistication, completeness, and style of the optional components will contribute to students "Exceeding Expectations" or delivering "Superior Work".
+
+1. (Week 2) Assignment 1 related to Week 1
+2. (Week 4) Assignment 2 related to Weeks 2 & 3
+3. (Week 6) Assignment 3 related to Weeks 4 & 5
+4. (Week 8) Assignment 4 related to Weeks 6 & 7
