@@ -36,11 +36,11 @@ Quizzes will be administered weekly on the material from the prior week. All qui
 6. (Week 7) Quiz 6 on Week 6 Material
 7. (Week 8) Final Exam on All Material
 
-## [Individual Project](individual-project.md) Assignments
+## [Individual Project](individual-project/project-description.md) Assignments
 
 The project is a collection of individual programming assignments that have required and optional components. The assignments are graded according to a rubric. Completion of the required aspects "Meet Expectations". Sophistication, completeness, and style of the optional components will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
-1. (Week 2) Assignment 1 related to Week 1
-2. (Week 4) Assignment 2 related to Weeks 2 & 3
-3. (Week 6) Assignment 3 related to Weeks 4 & 5
-4. (Week 8) Assignment 4 related to Weeks 6 & 7
+1. (Week 2) [Assignment 1](individual-project/assignment-1.md) related to Week 1
+2. (Week 4) [Assignment 2](individual-project/assignment-2.md) related to Weeks 2 & 3
+3. (Week 6) [Assignment 3](individual-project/assignment-3.md) related to Weeks 4 & 5
+4. (Week 8) [Assignment 4](individual-project/assignment-4.md) related to Weeks 6 & 7
