@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Data Focused Python
 
-You can use the [editor on GitHub](https://github.com/BrianKolowitz/data-focused-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Lectures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. File reasing, writing, appending
+    1. csv, json, xml
+    1. open, overwrite, append
+    1. copy, delete
+2. Language basics, getting setup, generating files
+    2. Functions, Modules, Classes, Generating Datasets
+3. Cleaning and aggregating data
+    3. lambdas
+    3. NaN replacement
+    3. fill forward, etc
+4. Aggregation
+    4. average, mean, median
+    4. group by
+5. Numpy and Pandas
+6. Graphing & Visualization
+7. Web Scraping, Databases, and Other Data Sources
 
-### Markdown
+## Assignments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrianKolowitz/data-focused-python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Assignment 1
+2. Assignment 2
+3. Assignment 3
+4. Assignment 4
