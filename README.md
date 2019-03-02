@@ -36,9 +36,9 @@ Quizzes will be administered weekly on the material from the prior week. All qui
 6. Week 7 - Quiz 6 on [Week 6](#week6) Material
 7. Week 8 - Final Exam on [All Material](#Lectures)
 
-## [Individual Project](individual-project/project-description.md) Assignments
+## Individual Project Assignments
 
-The project is a collection of individual programming assignments that have required and optional components. The assignments are graded according to a rubric. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
+The project is a collection of [individual programming assignments](individual-project/project-description.md) that have required and optional components. The assignments are graded according to a rubric. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
 1. Week 2 - [Assignment 1](individual-project/project-description.md) related to [Week 1](#week1)
 2. Week 4 - [Assignment 2](individual-project/project-description.md) related to [Week 2](#week2) & [Week 3](#week3)
