@@ -7,7 +7,7 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Lectures
 
-1. (Week 1) File reasing, writing, appending
+1. (Week 1) File reading, writing, appending
     1. csv, json, xml
     1. open, overwrite, append
     1. copy, delete
@@ -38,9 +38,9 @@ Quizzes will be administered weekly on the material from the prior week. All qui
 
 ## [Individual Project](individual-project/project-description.md) Assignments
 
-The project is a collection of individual programming assignments that have required and optional components. The assignments are graded according to a rubric. Completion of the required aspects "Meet Expectations". Sophistication, completeness, and style of the optional components will contribute to students "Exceeding Expectations" or delivering "Superior Work".
+The project is a collection of individual programming assignments that have required and optional components. The assignments are graded according to a rubric. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
-1. (Week 2) [Assignment 1](individual-project/assignment-1.md) related to Week 1
-2. (Week 4) [Assignment 2](individual-project/assignment-2.md) related to Weeks 2 & 3
-3. (Week 6) [Assignment 3](individual-project/assignment-3.md) related to Weeks 4 & 5
-4. (Week 8) [Assignment 4](individual-project/assignment-4.md) related to Weeks 6 & 7
+1. (Week 2) [Assignment 1](individual-project/project-description.md) related to Week 1
+2. (Week 4) [Assignment 2](individual-project/project-description.md) related to Weeks 2 & 3
+3. (Week 6) [Assignment 3](individual-project/project-description.md) related to Weeks 4 & 5
+4. (Week 8) [Assignment 4](individual-project/project-description.md) related to Weeks 6 & 7

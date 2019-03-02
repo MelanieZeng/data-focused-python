@@ -2,13 +2,22 @@
 
 ## Description
 
-During this project you will generate, process, analyze, and answer specific questions questions using algorithms and visualizations about a healthcare dataset. Each of the individual assignments will build towards the final deliverable. Individual assignments will have both required and optional aspects. Completion of the required aspects "Meet Expectations". Sophistication, completeness, and style of the optional components will contribute to students "Exceeding Expectations" or delivering "Superior Work".
+During this project you will generate, process, analyze, and answer specific questions questions using algorithms and visualizations about a healthcare dataset. Each of the individual assignments will build towards the final deliverable. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
 ## Deliverables
-1. [Assignment 1](assignment-1.md)
-2. [Assignment 2](assignment-2.md)
-3. [Assignment 3](assignment-3.md)
-4. [Assignment 4](assignment-4.md)
+
+1. Assignment 1
+    1. Generating synthetic datasets
+    1. Writing console applications
+2. Assignment 2
+    2. Parsing json and csv with python out of the box
+    2. Using 3rd party packages to parse data
+    2. Answering basic questions about the data
+3. Assignment 3
+    3. Data analysis
+4. Assignment 4
+    4. Data visualization
+    4. Getting data from other sources e.g. Web Scraping, Databases, etc
 
 ## Grading Scale
 
