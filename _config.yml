@@ -1,15 +1,6 @@
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: true
-      related: false
+layout: single
+classes:
+  - dark-theme
