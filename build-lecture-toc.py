@@ -6,7 +6,7 @@ if __name__ == "__main__":
     md.append('# Lectures\n')
     
     for dir in next(os.walk('lectures'))[1]:
-        if dir.startswith('week'):
+        if dir.lower().startswith('week'):
             md.append(f"* {dir}")
             path = os.path.join('lectures', dir)
             files = os.listdir(path)
