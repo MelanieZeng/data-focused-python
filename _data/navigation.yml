@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://briankolowitz.github.io/data-focused-python
+  - title: "Individual Project"
+    url: /individual-project/
   - title: "About"
     url: https://www.linkedin.com/in/briankolowitz/
   # - title: "Syllabus"
   #   url: /
-  - title: "Individual Project"
-    url: /individual-project/
   # - title: "Sitemap"
   #   url: /sitemap/
