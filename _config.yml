@@ -6,7 +6,13 @@ locale: "en-US"
 title: "Data Focused Python"
 repository: "BrianKolowitz/data-focused-python"
 logo: "/assets/images/logo_transparent_3.png"
-author_profile: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: single
+    values:
+      author_profile: true
 author:
   name     : "Brian J Kolowitz"
   avatar   : "/assets/images/bio-photo.jpg"
@@ -20,7 +26,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrianKolowitz"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/briankolowitz/"
 footer:
   links:
@@ -31,5 +37,5 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrianKolowitz"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/briankolowitz/"
