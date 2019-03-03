@@ -5,6 +5,8 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Lectures
 
+[Lectures](/lectures/lectures.md) will contain a mixture of content form this site and others.
+
 1. Week 1<a name='week1'></a> - File reading, writing, appending
     1. [files - open, overwrite, append](lectures/files.md)
     1. csv, json, xml
