@@ -26,7 +26,7 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 ## Quizzes & Exams
 
-Quizzes will be administered weekly on the material from the prior week. All quizzes are close book and require the LockDown browser.
+Quizzes will be administered weekly on the material from the prior week. All [quizzes](quizzes/quiz-description.md) are close book and require the LockDown browser.
 
 1. Week 2 - Quiz 1 on [Week 1](#week1) Material
 2. Week 3 - Quiz 2 on [Week 2](#week2) Material
