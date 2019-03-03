@@ -6,8 +6,8 @@ development lifecycle: planning, development, testing, implementation and mainte
 ## Lectures
 
 1. Week 1<a name='week1'></a> - File reading, writing, appending
+    1. [files - open, overwrite, append](lectures/files.md)
     1. csv, json, xml
-    1. open, overwrite, append
     1. copy, delete
     1. generating datasets
 2. Week 2<a name='week2'></a> - Language basics, getting setup, generating files
