@@ -1,4 +1,5 @@
 import glob, os
+from pathlib import Path
 
 if __name__ == "__main__":
 
@@ -12,7 +13,7 @@ if __name__ == "__main__":
             files = os.listdir(path)
             for file in [file for file in files if file.endswith('.md')]:
                 print(path, file)
-                md.append(f"  * [{file}]({os.path.join(dir,file)})")
+                md.append(f"  * [{Path(file).resolve().stem.title()}]({os.path.join(dir,file)})")
     print('\n'.join(md))
 
     with open('lectures/lectures.md', 'w') as f:
