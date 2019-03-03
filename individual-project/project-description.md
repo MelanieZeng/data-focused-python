@@ -1,5 +1,3 @@
-# Individual Project
-
 ## Description
 
 During this project you will generate, process, analyze, and answer specific questions questions using algorithms and visualizations about a healthcare dataset. Each of the individual assignments will build towards the final deliverable. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
