@@ -6,6 +6,6 @@ defaults:
   - scope:
       path: ""
       type: docs
-    values:
-      sidebar:
-        nav: "docs"
+      values:
+        sidebar:
+          nav: "docs"
