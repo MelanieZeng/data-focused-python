@@ -7,3 +7,8 @@ title: "Data Focused Python"
 name: "Brian J Kolowitz"
 repository: "BrianKolowitz/data-focused-python"
 logo: "/assets/images/logo_transparent_3.png"
+author:
+  name     : "Brian J Kolowitz"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Director of Product Management & API Developer Experience (DX) and Professor of Information Sciences"
+  location : "Pittsburgh, PA" 
