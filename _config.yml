@@ -9,3 +9,5 @@ repository: "BrianKolowitz/data-focused-python"
 logo: "/assets/images/logo_transparent_3.png"
 
 
+
+theme: jekyll-theme-hacker
