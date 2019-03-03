@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes:
   - landing
   - dark-theme
