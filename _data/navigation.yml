@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://briankolowitz.github.io/data-focused-python
+    url: /
   - title: "Project"
     url: /individual-project/project-description.html
   - title: "Quizzes"
     url: /quizzes/quiz-description.html
-  # - title: "Syllabus"
-  #   url: /
+  - title: "About"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/

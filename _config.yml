@@ -7,9 +7,10 @@ title: "Data Focused Python"
 repository: "BrianKolowitz/data-focused-python"
 logo: "/assets/images/logo_transparent_3.png"
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
