@@ -1,16 +1,12 @@
-
-docs:
-  - title: Getting Started
-    children:
-      - title: "Syllabus"
-        url: /
-
-  - title: Assignments
-    children:
-      - title: "Individual Project"
-        url: /individual-project/
-      - title: "Quizzes"
-        url: /quizzes/
-  
-  # - title: About
-  #   url: https://www.linkedin.com/in/briankolowitz/
+# main links
+main:
+  - title: "Home"
+    url: https://briankolowitz.github.io/data-focused-python
+  - title: "About"
+    url: https://www.linkedin.com/in/briankolowitz/
+  # - title: "Syllabus"
+  #   url: /
+  - title: "Individual Project"
+    url: /individual-project/
+  # - title: "Sitemap"
+  #   url: /sitemap/
