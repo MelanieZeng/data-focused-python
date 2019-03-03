@@ -10,9 +10,13 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: single
     values:
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 author:
   name     : "Brian J Kolowitz"
   avatar   : "/assets/images/bio-photo.jpg"
