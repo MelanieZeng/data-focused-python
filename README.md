@@ -9,15 +9,23 @@ development lifecycle: planning, development, testing, implementation and mainte
     1. csv, json, xml
     1. open, overwrite, append
     1. copy, delete
+    1. generating datasets
 2. Week 2<a name='week2'></a> - Language basics, getting setup, generating files
-    2. Functions, Modules, Classes, Generating Datasets
+    2. modules
+    2. functions
+    2. classes
+    2. parsing data
 3. Week 3<a name='week3'></a> - Cleaning and aggregating data
     3. lambdas
     3. NaN replacement
     3. fill forward, etc
+    3. cleaning data
+    3. processing data
 4. Week 4<a name='week4'></a> - Aggregation
     4. average, mean, median
     4. group by
+    4. descriptive statistics
+    4. data analysis
 5. Week 5<a name='week5'></a> - Numpy and Pandas
 6. Week 6<a name='week6'></a> - Graphing & Visualization
 7. Week 7<a name='week7'></a> - Web Scraping, Databases, and Other Data Sources
