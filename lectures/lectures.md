@@ -1,4 +1,6 @@
 # Lectures
 
-* [loading-synthea-data.md](loading-synthea-data.md)
-* [files.md](files.md)
+* week01
+  * [files.md](week01/files.md)
+* week02
+  * [loading-synthea-data.md](week02/loading-synthea-data.md)
