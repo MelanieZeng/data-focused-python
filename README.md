@@ -1,3 +1,5 @@
+# Data Focused Python
+
 ## Description
 
 This course focuses on the fundamentals of computer programming using the Python interpreted programming language. Students will develop his or her problem solving skills using the divideand-conquer and top-down approaches to build real-world based software applications. Students will also learn the basics of the software
