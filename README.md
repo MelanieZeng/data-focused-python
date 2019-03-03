@@ -1,4 +1,4 @@
-# Data Focused Python
+## Description
 
 This course focuses on the fundamentals of computer programming using the Python interpreted programming language. Students will develop his or her problem solving skills using the divideand-conquer and top-down approaches to build real-world based software applications. Students will also learn the basics of the software
 development lifecycle: planning, development, testing, implementation and maintenance. Assignments will include individual coding assignments and weekly fundamental checkpoint quizzes culminating with an individual final project to test essential programming and problem solving skills.
