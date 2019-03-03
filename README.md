@@ -40,7 +40,7 @@ Quizzes will be administered weekly on the material from the prior week. All qui
 
 The project is a collection of [individual programming assignments](individual-project/project-description.md) that have required and optional components. The assignments are graded according to a rubric. Individual assignments will have both must have requirements and stretch requirements. Completion of the must have requirements "Meet Expectations". Sophistication, completeness, and style of the stretch requirements will contribute to students "Exceeding Expectations" or delivering "Superior Work".
 
-1. Week 2 - [Assignment 1](individual-project/project-description.md) related to [Week 1](#week1)
-2. Week 4 - [Assignment 2](individual-project/project-description.md) related to [Week 2](#week2) & [Week 3](#week3)
-3. Week 6 - [Assignment 3](individual-project/project-description.md) related to [Week 4](#week4) & Week [Week 5](#week5)
-4. Week 8 - [Assignment 4](individual-project/project-description.md) related to [Week 6](#week6) & [Week 7](#week7)
+1. Week 2 - [Assignment 1](individual-project/project-description.html) related to [Week 1](#week1)
+2. Week 4 - [Assignment 2](individual-project/project-description.html) related to [Week 2](#week2) & [Week 3](#week3)
+3. Week 6 - [Assignment 3](individual-project/project-description.html) related to [Week 4](#week4) & Week [Week 5](#week5)
+4. Week 8 - [Assignment 4](individual-project/project-description.html) related to [Week 6](#week6) & [Week 7](#week7)
