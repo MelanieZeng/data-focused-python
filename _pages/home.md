@@ -1,6 +1,7 @@
 ---
 permalink: /
 toc: true
+toc_sticky: true
 toc_label: "Course Contents"
 toc_icon: "cog"
 ---
