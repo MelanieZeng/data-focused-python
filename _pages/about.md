@@ -1,1 +1,4 @@
+---
+permalink: /about/
+---
 # about me

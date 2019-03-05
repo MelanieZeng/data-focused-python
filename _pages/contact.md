@@ -1,1 +1,4 @@
-contact
+---
+permalink: /contact/
+---
+# contact me
