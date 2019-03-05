@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 toc: true
 toc_label: "Course Contents"
 toc_icon: "cog"
