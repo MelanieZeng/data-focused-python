@@ -6,6 +6,7 @@ locale: "en-US"
 title: "Data Focused Python"
 repository: "BrianKolowitz/data-focused-python"
 logo: "/assets/images/logo_transparent_3.png"
+include: ["_pages"]
 defaults:
   # _pages
   - scope:
