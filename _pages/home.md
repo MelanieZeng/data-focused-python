@@ -50,7 +50,6 @@ Quizzes will be administered weekly on the material from the prior week. All [qu
 4. Week 5 - Quiz 4 on [Week 4](#week4) Material
 5. Week 6 - Quiz 5 on [Week 5](#week5) Material
 6. Week 7 - Quiz 6 on [Week 6](#week6) Material
-7. Week 8 - Final Exam on [All Material](#Lectures)
 
 ## Individual Project Assignments
 
