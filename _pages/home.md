@@ -15,17 +15,18 @@ development lifecycle: planning, development, testing, implementation and mainte
 
 [Lectures](/lectures/lectures.md) will contain a mixture of content form this site and others.
 
-1. Week 1<a name='week1'></a> - File reading, writing, appending
-    1. [files - open, overwrite, append](lectures/files.md)
-    1. csv, json, xml
-    1. copy, delete
+1. Week 1<a name='week1'></a> - Language basics, unit testing, generating and processing files
+    1. python program basics
+    1. python unit testing
     1. generating datasets
-2. Week 2<a name='week2'></a> - Language basics, getting setup, generating files
-    2. modules
-    2. functions
-    2. classes
-    2. parsing data
-3. Week 3<a name='week3'></a> - Cleaning and aggregating data
+    1. file formats: csv, json, xml
+    1. [file processing: open, read, write, append, overwrite](lectures/files.md)
+2. Week 2<a name='week2'></a> - Modules, functions, classes and advanced file processing
+    2. modules, functions, classes
+    2. parsing data with xpath
+    2. parsing data with jsonpath
+    2. parsing data with classes
+3. Week 3<a name='week3'></a> - Cleaning and preparring data
     3. lambdas
     3. NaN replacement
     3. fill forward, etc
@@ -36,7 +37,7 @@ development lifecycle: planning, development, testing, implementation and mainte
     4. group by
     4. descriptive statistics
     4. data analysis
-5. Week 5<a name='week5'></a> - Numpy and Pandas
+5. Week 5<a name='week5'></a> - Numpy & Pandas
 6. Week 6<a name='week6'></a> - Graphing & Visualization
 7. Week 7<a name='week7'></a> - Web Scraping, Databases, and Other Data Sources
 
