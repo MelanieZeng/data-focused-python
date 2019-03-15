@@ -1,2 +1,2 @@
-jupyter nbconvert --to markdown _pages/lectures/*.ipynb
+jupyter nbconvert --to markdown _pages/lectures/**/*.ipynb
 python build-lecture-toc.py
