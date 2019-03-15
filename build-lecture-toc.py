@@ -11,9 +11,9 @@ if __name__ == "__main__":
         week_path = os.path.join(lecture_root, week)
         files = os.listdir(week_path)
         for file in [file for file in files if file.endswith('.md')]:
-            file_path = os.path.join(week_path, file)
-            print(file_path)
-            md.append(f"  * [{Path(file).resolve().stem.title()}]({file_path})")
+            # file_path = os.path.join(week_path, file)
+            # print(file_path)
+            md.append(f"  * [{Path(file).resolve().stem.title()}]({file})")
     print('\n'.join(md))
 
     with open(os.path.join(lecture_root, 'lectures.md'), 'w') as f:
