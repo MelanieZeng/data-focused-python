@@ -1,4 +1,9 @@
-
+---
+toc: true
+toc_sticky: true
+toc_label: "Page Contents"
+toc_icon: "cog"
+---
 ## Loading Synthea Data
 
 Here we'll walk through the different data files from the [synthea](https://github.com/synthetichealth/synthea) data generator. Synthea can generate data in a number of formats including:
