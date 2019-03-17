@@ -3,7 +3,6 @@ toc: true
 toc_sticky: true
 toc_label: "Page Contents"
 toc_icon: "cog"
-classes: wide
 ---
 # Generating Synthetic Data
 
