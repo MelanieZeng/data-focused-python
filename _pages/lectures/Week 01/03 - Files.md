@@ -9,7 +9,6 @@ toc_icon: "cog"
 Read and write files
 open and close files
 
-
 ```python
 f = open('file.txt')
 ```
