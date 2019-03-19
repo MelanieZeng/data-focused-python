@@ -1,9 +1,4 @@
----
-toc: true
-toc_sticky: true
-toc_label: "Page Contents"
-toc_icon: "cog"
----
+
 # Generating Synthetic Data
 
 One of the hardest things to do in data science is get access to high quality datasets that relate to your specific questions. There's any number of reasons why researchers and analysts get incorrect results and misread the answers they're getting. [Bad data practice](https://www.forbes.com/sites/kalevleetaru/2018/02/19/how-bad-data-practice-is-leading-to-bad-research/#5e7cfbad1c35) may be leading to bad research. Some bad data practice themes might include:
