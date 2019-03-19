@@ -13,19 +13,10 @@ toc_icon: "cog"
 
 Here is a simple approach to fast Python development. We are using PyCharm + Anaconda in this course. PyCharm is a cross-platform IDE for Python which has most popular programming features. Anaconda is a rich set of most useful Python packages (contains Python compiler already). Both of them are free and easy to install. You can choose the OS you are familiar with. Here we provide brief instruction on Windows, Mac or Linux.
 
-### Windows:
-* Download and install PyCharm. 
-* Download and Install Anaconda.
-
-### Mac:
 * Install PyCharm. 
-* Install Anaconda. 
+* Install Anaconda.
 
-### Linux:
-* Install PyCharm. 
-* Install Anaconda. 
-
-## Configuring environment:
+## Configuring environment
 After installation of PyCharm and Anaconda, the next step is to configure the environment and link between the IDE and Python. The user interface for PyCharm is similar under three different OS and we illustrate the Windows version.
 
 1. Open PyCharm.
@@ -41,6 +32,7 @@ After installation of PyCharm and Anaconda, the next step is to configure the en
     ![run](images/00_run.jpg)
 
 ## Hello World Python
+
 1. Create helloworld.py
 1. Type the following code: ```print('Hello World!')```
 1. To run: Right click on .py and select 'Run'.
