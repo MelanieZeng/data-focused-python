@@ -20,10 +20,10 @@ During this project you will generate, process, analyze, and answer specific que
 
 ## Grading Scale
 
-| Points | Descriptor | Notes |
-|---:|---|
-| 100.0 | Superior Work | Completion of optional components with complexity & quality above and beyond students tht Exceed Expectations |
-| 92.5 | Exceeds Expectations | Completion of optional components |
-| 85.0 | Meets Expectations | Completion required aspects only |
-| 77.5 | Nearly Meet Expectations | Completion of most of the required aspects or completion with low code quality |
+| Points | Description | Notes |
+| ---: | --- |
+| 100.0 | Superior Work | Completion of Must Have and Stretch Requirements with complexity & quality above and beyond students that Exceed Expectations |
+| 92.5 | Exceeds Expectations | Completion of Must Have requirements and Stretch Requirements |
+| 85.0 | Meets Expectations | Completion Must Have Requirements only |
+| 77.5 | Nearly Meet Expectations | Completion of most of the Must Have Requirements or completion of all Must Have Requirements with poor code quality |
 | 0.0 | Unacceptable | Unacceptable |
