@@ -1,4 +1,9 @@
-
+---
+toc: true
+toc_sticky: true
+toc_label: "Page Contents"
+toc_icon: "cog"
+---
 # Quick Links
 * Python: https://www.python.org/ 
 * PyCharm: http://www.jetbrains.com/pycharm/

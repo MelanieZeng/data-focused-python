@@ -10,3 +10,8 @@
   * [03.C - Xml Files](Week 01/03.c - XML Files.md)
 * Week 02
   * [01 - Loading-Synthea-Data](Week 02/01 - loading-synthea-data.md)
+* Week 03
+* Week 04
+* Week 05
+* Week 06
+* Week 07
