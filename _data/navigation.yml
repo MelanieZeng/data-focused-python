@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Project"
-    url: /_pages/individual-project/project-description.html
+    url: /individual-project/project-description.html
   - title: "Lectures"
-    url: /_pages/lectures/lectures.html
+    url: /lectures/lectures.html
   - title: "Quizzes"
-    url: /_pages/quizzes/quiz-description.html
+    url: /quizzes/quiz-description.html
   - title: "About"
     url: /about/
   # - title: "Sitemap"
