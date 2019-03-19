@@ -5,7 +5,7 @@ if __name__ == "__main__":
 
     md = []
     md.append('# Lectures\n')
-    lecture_root = "_pages/lectures"
+    lecture_root = "lectures"
     weeks = [week for week in os.listdir(lecture_root) if week.lower().startswith('week')]
     weeks.sort()
     for week in weeks:
