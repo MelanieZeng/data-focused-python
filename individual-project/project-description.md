@@ -18,6 +18,16 @@ During this project you will generate, process, analyze, and answer specific que
     4. Data visualization
     4. Getting data from other sources e.g. Web Scraping, Databases, etc
 
+### Example Output for Assigment 4 that **Meets Expectations**
+
+<div backgrond-color="rgba(255, 255, 255, 0)">
+![png](Assignment%2004_files/Assignment%2004_2_0.png)
+![png](Assignment%2004_files/Assignment%2004_2_1.png)
+![png](Assignment%2004_files/Assignment%2004_2_2.png)
+![png](Assignment%2004_files/Assignment%2004_2_3.png)
+![png](Assignment%2004_files/Assignment%2004_3_0.png)
+</div>
+
 ## Grading Scale
 
 | Points | Description | Notes |
