@@ -30,6 +30,8 @@ During this project you will generate, process, analyze, and answer specific que
 
 ![png](Assignment%2004_files/Assignment%2004_3_0.png)
 
+*Note: The 1st four charts are derived from only a single resource*
+
 ## Grading Scale
 
 | Points | Description | Notes |
